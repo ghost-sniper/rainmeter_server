@@ -1,0 +1,9 @@
+[package]
+name = "rainmeter"
+version = "0.1.1"
+edition = "2021"
+authors = ["Tony Reeves <clownlaughatyou98@gmail.com>"]
+
+[dependencies]
+rocket_contrib = "0.4.10"
+rocket = "0.4.10"
