@@ -7,3 +7,4 @@ authors = ["Tony Reeves <clownlaughatyou98@gmail.com>"]
 [dependencies]
 rocket_contrib = "0.4.10"
 rocket = "0.4.10"
+bcrypt = "0.12.0"
