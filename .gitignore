@@ -1,1 +1,7 @@
 /target
+/.idea/.gitignore
+/Cargo.lock
+/.idea/git_toolbox_prj.xml
+/.idea/modules.xml
+/.idea/rainmeter.iml
+/.idea/vcs.xml
