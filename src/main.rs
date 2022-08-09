@@ -1,3 +1,5 @@
+extern crate core;
+
 use crate::api::register_api;
 
 mod api;

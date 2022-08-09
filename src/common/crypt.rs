@@ -6,6 +6,6 @@ fn encrypt(plain_text: String) -> String {
     return hash(plain_text, DEFAULT_COST).unwrap();
 }
 
-fn decrypt(cipher_text: String, password: String) -> bool {
+fn verify_password(cipher_text: String, password: String) -> bool {
     return verify(password, cipher_text.as_str()).unwrap();
 }
